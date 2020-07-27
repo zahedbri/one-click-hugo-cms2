@@ -1,11 +1,12 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: img/rsz_img-20200702-wa0003.png
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
+    text: 553 AS Tower, 6th floor, Probortok Circle, Near Mimi Super market.
+      Chittagong-4203
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: "Saturday-Thursday: 9AM – 7PM We’re closed on Friday"
 ---
 
 We’d love to get in touch with you and hear your ideas and
